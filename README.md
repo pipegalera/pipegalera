@@ -1,6 +1,4 @@
-## Hi there, I'm Pipe 👋
-
-## I'm a recent graduate in Economics
+## Hi there, I'm Pipe 👋. I'm a recent graduate in Economics
 
 - :es: Spanish living in Denmark for the last three years.
 - :chart_with_upwards_trend: I’m currently learning algorithmic trading.
@@ -13,17 +11,6 @@
 [<img align="left" alt="pipegalera.com" width="22px" src="https://cdn1.iconfinder.com/data/icons/web-38/200/1021-512.png" />][website]
 [<img align="left" alt="pipegalera | Twitter" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-512.png" />][twitter]
 [<img align="left" alt="pipegalera | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />]
-[<img align="left" alt="R" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" />]
-
-
-<br />
-<br />
 
 
 </details>
