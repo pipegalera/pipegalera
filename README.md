@@ -1,8 +1,5 @@
 ## Hi there, I'm Pipe 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https:/#/codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a recent graduate in Economics
 
 - :es: Spanish living in Denmark for the last three years.
@@ -13,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="pipegalera.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="pipegalera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="pipegalera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="pipegalera.com" width="22px" src="https://cdn1.iconfinder.com/data/icons/web-38/200/1021-512.png" />][website]
+[<img align="left" alt="pipegalera | Twitter" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-512.png" />][twitter]
+[<img align="left" alt="pipegalera | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" />][linkedin]
 
 <br />
 
