@@ -1,4 +1,8 @@
-## Hi there, I'm Pipe 👋. I'm a recent graduate in Economics
+# Hi there, I'm Pipe 👋
+
+I'm a recent graduate from the Master in Economics at the University of Copenhagen. I have public repositories with some of the projects I have been working on, including websites and statistical/econometrical projects written in Python, R or STATA.
+
+Take a look and feel free to take code snaps that you find useful for your own projects! :blush:
 
 - :es: Spanish living in Denmark for the last three years.
 - :chart_with_upwards_trend: I’m currently learning algorithmic trading.
