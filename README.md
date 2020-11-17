@@ -1,6 +1,6 @@
 # Hi there, I'm Pipe 👋
 
-I'm a recent graduate from the Master in Economics at the University of Copenhagen.
+I'm a recent graduate from the Master in Economics from the University of Copenhagen.
 
 I have public repositories with some of the projects I have been working on, including websites and statistical/econometrical projects written in Python, R or STATA.
 
