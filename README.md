@@ -9,7 +9,7 @@ Take a look and feel free to take code snaps that you find useful for your own p
 ## About
 
 - :airplane: Spanish living in Denmark for the last three years.
-- :chart_with_upwards_trend: I’m currently learning algorithmic trading.
+- :chart_with_upwards_trend: I’m currently imroving my Machine Learning skills.
 - :fire: Hobbies: I play basketball and practice kyokushin karate.
 - :checkered_flag: Goal 2021: Learn front-end-development.
 
