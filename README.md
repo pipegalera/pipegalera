@@ -11,7 +11,6 @@ Take a look and feel free to take code snaps that you find useful for your own p
 - :airplane: Spanish living in Denmark for the last three years.
 - :chart_with_upwards_trend: I’m currently improving my Machine Learning skills.
 - :fire: Hobbies: I play basketball and practice kyokushin karate.
-- :checkered_flag: Goal 2021: Learn front-end-development.
 
 
 ## Connect with me:
