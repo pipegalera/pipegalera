@@ -1,17 +1,10 @@
 # Hi there, I'm Pipe 👋
 
-I'm a recent graduate from the Master in Economics from the University of Copenhagen.
+I'm a Econ graduate from University of Copenhagen, currently working as People Analytics Partner at [Maersk](https://www.maersk.com/).
 
 I have public repositories with some of the projects I have been working on, including websites and statistical/econometrical projects written in Python, R or STATA.
 
 Take a look and feel free to take code snaps that you find useful for your own projects! :blush:
-
-## About
-
-- :airplane: Spanish living in Denmark for the last three years.
-- :chart_with_upwards_trend: I’m currently improving my Machine Learning skills.
-- :fire: Hobbies: I play basketball and practice kyokushin karate.
-
 
 ## Connect with me:
 
