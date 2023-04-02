@@ -1,10 +1,10 @@
 # Hi there, I'm Pipe 👋
 
-I'm a People Analytics Partner at [Maersk](https://www.maersk.com/).
+I'm a Data Scientist at [Maersk](https://www.maersk.com/).
 
 I have public repositories with some of the projects I have been working on, including websites and statistical/econometrical projects written in Python, R or STATA.
 
-Take a look and feel free to take code snaps that you find useful for your own projects! :blush:
+My repos can be a bit rusty, but please take a look and feel free to take code snaps that you find useful for your own projects! :blush:
 
 ## Connect with me:
 
