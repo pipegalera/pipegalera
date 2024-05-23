@@ -1,6 +1,6 @@
 # Hi there, I'm Pipe 👋
 
-I'm a Data Scientist at [Maersk](https://www.maersk.com/).
+Data Scientist.
 
 I have public repositories with some of the projects I have been working on, including websites and statistical/econometrical projects written in Python, R or STATA.
 
