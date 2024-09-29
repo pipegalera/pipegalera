@@ -4,7 +4,7 @@ Data Scientist.
 
 I have public repositories with some of the projects I have been working on, including websites and statistical/econometrical projects written in Python, R or STATA.
 
-My repos can be a bit rusty, but please take a look and feel free to take code snaps that you find useful for your own projects! :blush:
+Feel free to take code snaps that you find useful for your own projects! :blush:
 
 Gists:https://gist.github.com/pipegalera
 
