@@ -1,6 +1,6 @@
 # Hi there, I'm Pipe 👋
 
-Data Scientist.
+Data Solutions Developer at [CBS](https://www.cbs.dk/en).
 
 I have public repositories with some of the projects I have been working on, including websites and statistical/econometrical projects written in Python, R or STATA.
 
