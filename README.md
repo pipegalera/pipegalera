@@ -2,12 +2,6 @@
 
 Data Solutions Developer at [CBS](https://www.cbs.dk/en).
 
-I have public repositories with some of the projects I have been working on, including websites and statistical/econometrical projects written in Python, R or STATA.
-
-Feel free to take code snaps that you find useful for your own projects! :blush:
-
-Gists:https://gist.github.com/pipegalera
-
 ## Connect with me:
 
 [<img align="left" alt="pipegalera.com" width="22px" src="https://cdn1.iconfinder.com/data/icons/web-38/200/1021-512.png" />][website]
